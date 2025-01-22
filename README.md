@@ -77,11 +77,11 @@ Enthusiast of the best web & mobile development technologies.
 ## &nbsp;Social Links
 
 <p align="left">
-<a href="https://www.linkedin.com/in/danielgorgonha/" target="_blank">
+<a href="https://www.linkedin.com/in/danielgorgonha1/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-danielgorgonha-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-daniel.gorgonha-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/danielgorgonha1" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-danielgorgonha1-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="mailto:rogergorgonha@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-rogergorgonha@gmail.com-05122A?style=flat&logo=Gmail" alt="Gmail"/>
@@ -92,8 +92,8 @@ Enthusiast of the best web & mobile development technologies.
 
 A thousand may fall at your side, ten thousand at your right hand, but it will not come near you - Psalm 91:7.
 
-[linkedin]: https://www.linkedin.com/in/danielgorgonha/
-[instagram]: https://www.instagram.com/daniel.gorgonha/
+[linkedin]: https://www.linkedin.com/in/danielgorgonha1/
+[instagram]: https://www.instagram.com/danielgorgonha1/
 [gmail]: mailto:rogergorgonha@gmail.com
 
 <!--
