@@ -1,5 +1,3 @@
-# Daniel Roger Gorgonha
-
 ### 💻 Full Stack & Web3 Developer | 🌐 Passionate about Decentralized Tech | 🎯 Building Scalable and Secure Applications
 
 📍 Florianópolis, Brazil · [LinkedIn](https://www.linkedin.com/in/danielgorgonha1/) · [Instagram](https://instagram.com/danielgorgonha1) · [Email](mailto:rogergorgonha@gmail.com)
