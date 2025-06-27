@@ -1,112 +1,99 @@
-## About me <img width="24px" src="https://media.tenor.com/images/f580b40a349dcb2d7cb93573e2329061/tenor.gif">
+# Daniel Roger Gorgonha
 
-#### My name is Daniel R Gorgonha and I am a Full Stack Developer from Brazil!
+### 💻 Full Stack & Web3 Developer | 🌐 Passionate about Decentralized Tech | 🎯 Building Scalable and Secure Applications
 
-<br />
+📍 Florianópolis, Brazil · [LinkedIn](https://www.linkedin.com/in/danielgorgonha1/) · [Instagram](https://instagram.com/danielgorgonha1) · [Email](mailto:rogergorgonha@gmail.com)
 
-Enthusiast of the best web & mobile development technologies.
+---
 
-<br />
+## 👋 About Me
 
-## My Toolbox
+Hi! I'm **Daniel Roger Gorgonha**, a Full Stack Developer with solid experience in Web and Mobile development. Currently specializing in **Blockchain/Web3** technologies through a postgraduate program and building decentralized applications focused on usability and security.
 
-#### Here are the main **technologies** that I use:
+> *"A thousand may fall at your side, ten thousand at your right hand, but it will not come near you."*
+> — Psalm 91:7
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typeScript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-05122A?style=flat&logo=bitbucket)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitLab)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Next JS](https://img.shields.io/badge/-Next%20JS-05122A?style=flat&logo=next.js)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)&nbsp;
-![Elixir](https://img.shields.io/badge/-Elixir-05122A?style=flat&logo=elixir)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
-![Sequelize](https://img.shields.io/badge/-Sequelize-05122A?style=flat&logo=sequelize)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
-![Notion](https://img.shields.io/badge/-Notion-05122A?style=flat&logo=notion)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apachekafka)&nbsp;
-![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
-![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
-![Socket.io](https://img.shields.io/badge/-Socket.io-05122A?style=flat&logo=socket.io)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-05122A?style=flat&logo=cloudflare)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=Google-Cloud)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-05122A?style=flat&logo=adobe%20xd)&nbsp;
-![AdonisJS](https://img.shields.io/badge/-AdonisJS-05122A?style=flat&logo=adonisJS)&nbsp;
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unrealengine)&nbsp;
-![Heroku](https://img.shields.io/badge/-heroku-05122A?style=flat&logo=heroku)&nbsp;
-![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify)&nbsp;
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+---
 
-<br />
+## 📚 Tech Stack
 
-## &nbsp;Social Links
+* **Frontend**: React, Next.js, Vue, Angular, TailwindCSS, Bootstrap
+* **Backend**: JavaScript/TypeScript (Node.js), C#, Python, Rust, Elixir, GraphQL, Socket.io, Sequelize, Dart
+* **Mobile**: React Native, Flutter, Expo
+* **Smart Contracts / Web3**: Solidity, Hardhat, MetaMask, Ethereum, Polygon, zk‑verify
+* **Databases**: PostgreSQL, MySQL, MongoDB, SQLite
+* **DevOps / Cloud**: Docker, Kubernetes, AWS, Google Cloud, Heroku, Vercel, Netlify, GitHub Actions
+* **Tools & Workflow**: VS Code, Cursor, WSL/Linux, Git, Postman, Insomnia, Jira, Trello, Notion, Scrum
 
-<p align="left">
-<a href="https://www.linkedin.com/in/danielgorgonha1/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-danielgorgonha-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/danielgorgonha1" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-danielgorgonha1-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="mailto:rogergorgonha@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-rogergorgonha@gmail.com-05122A?style=flat&logo=Gmail" alt="Gmail"/>
-</a>
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [zk-bootcamp](https://github.com/danielgorgonha/zk-bootcamp) *(Solidity + Hardhat + ZK)*
+
+Zero-Knowledge bootcamp project focused on ZK-proofs using Solidity and Hardhat. Demonstrates advanced Web3 concepts in privacy and secure smart contracts.
+![GitHub last commit](https://img.shields.io/github/last-commit/danielgorgonha/zk-bootcamp) ![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=flat\&logo=solidity\&logoColor=white)
+
+### 🔹 [backend-challenge-dynamox](https://github.com/danielgorgonha/backend-challenge-dynamox) *(Node.js + TypeScript)*
+
+Clean architecture REST API with JWT authentication and testing suite. Strong example of scalable backend development using TypeScript.
+![GitHub last commit](https://img.shields.io/github/last-commit/danielgorgonha/backend-challenge-dynamox) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat\&logo=typescript\&logoColor=white)
+
+### 🔹 [ignite-rentalx](https://github.com/danielgorgonha/ignite-rentalx) *(Node.js + TypeORM)*
+
+Car rental system built during Rocketseat’s Ignite. Includes roles, authentication, testing, and Domain Driven Design structure.
+![GitHub last commit](https://img.shields.io/github/last-commit/danielgorgonha/ignite-rentalx) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node-dot-js\&logoColor=white)
+
+### 🔹 [nearx-stellar-bootcamp](https://github.com/danielgorgonha/nearx-stellar-bootcamp) *(Blockchain + Stellar)*
+
+Decentralized app built using the Stellar blockchain. Shows how to integrate payment networks in Web3 outside the Ethereum ecosystem.
+![GitHub last commit](https://img.shields.io/github/last-commit/danielgorgonha/nearx-stellar-bootcamp) ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=flat\&logo=stellar\&logoColor=white)
+
+### 🔹 [nlw5-plantmanager](https://github.com/danielgorgonha/nlw5-plantmanager) *(React Native + SQLite)*
+
+Mobile app focused on plant care, featuring local notifications and offline data with SQLite. Great UX built during Rocketseat’s NLW.
+![GitHub last commit](https://img.shields.io/github/last-commit/danielgorgonha/nlw5-plantmanager) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+
+---
+
+## 📌 Pinned Visual Projects
+
+<p align="center">
+  <a href="https://github.com/danielgorgonha/backend-challenge-dynamox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielgorgonha&repo=backend-challenge-dynamox&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/danielgorgonha/zk-bootcamp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielgorgonha&repo=zk-bootcamp&theme=tokyonight"/>
+  </a>
 </p>
 
-<br />
+---
 
-A thousand may fall at your side, ten thousand at your right hand, but it will not come near you - Psalm 91:7.
+## 📊 GitHub Stats
 
-[linkedin]: https://www.linkedin.com/in/danielgorgonha1/
-[instagram]: https://www.instagram.com/danielgorgonha1/
-[gmail]: mailto:rogergorgonha@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielgorgonha&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgorgonha&layout=compact&theme=tokyonight" height="165" />
+</p>
 
-<!--
-**danielgorgonha/danielgorgonha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧩 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📘 Postgraduate in **Blockchain Development**
+⚒️ Focused on Web3 stack: Solidity, wallet integration, and decentralized infra
+🎯 Goal: build secure, practical and impactful dApps.
+
+---
+
+## 📫 How to Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/-danielgorgonha1-05122A?logo=linkedin)](https://www.linkedin.com/in/danielgorgonha1/)
+[![Instagram](https://img.shields.io/badge/-danielgorgonha1-05122A?logo=instagram)](https://instagram.com/danielgorgonha1)
+[![Gmail](https://img.shields.io/badge/-rogergorgonha@gmail.com-05122A?logo=gmail)](mailto:rogergorgonha@gmail.com)
+
+---
+
+✨ This README is built with dedication by Daniel Gorgonha.
+📡 Twitch streamer and Web3 enthusiast.
+🔍 Always open to collaboration | Open to Work
