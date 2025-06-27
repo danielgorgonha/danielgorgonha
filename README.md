@@ -54,7 +54,7 @@ Mobile app focused on plant care, featuring local notifications and offline data
 
 ---
 
-## 📌 Pinned Visual Projects
+<!-- ## 📌 Pinned Visual Projects
 
 <p align="center">
   <a href="https://github.com/danielgorgonha/backend-challenge-dynamox">
@@ -65,7 +65,8 @@ Mobile app focused on plant care, featuring local notifications and offline data
   </a>
 </p>
 
----
+--- 
+-->
 
 ## 📊 GitHub Stats
 
@@ -78,9 +79,9 @@ Mobile app focused on plant care, featuring local notifications and offline data
 
 ## 🧩 Currently Learning
 
-📘 Postgraduate in **Blockchain Development**
-⚒️ Focused on Web3 stack: Solidity, wallet integration, and decentralized infra
-🎯 Goal: build secure, practical and impactful dApps.
+- 📘 Postgraduate in **Blockchain Development**
+- ⚒️ Focused on Web3 stack: Solidity, wallet integration, and decentralized infra
+- 🎯 Goal: build secure, practical and impactful dApps.
 
 ---
 
@@ -92,6 +93,6 @@ Mobile app focused on plant care, featuring local notifications and offline data
 
 ---
 
-✨ This README is built with dedication by Daniel Gorgonha.
-📡 Twitch streamer and Web3 enthusiast.
-🔍 Always open to collaboration | Open to Work
+- ✨ This README is built with dedication by Daniel Gorgonha.
+- 📡 Twitch streamer and Web3 enthusiast.
+- 🔍 Always open to collaboration | Open to Work
